@@ -1,2 +1,0 @@
-# Python-Assignements
-Coursera Assignments
